@@ -1,6 +1,6 @@
 # How to clone
 ```bash
-git clone -b "kotlin-multiplatform" https://github.com/concertypin/template
+git clone https://github.com/templecon/template-kotlin-multiplatform
 ```
 
 # How to build
